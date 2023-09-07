@@ -30,23 +30,23 @@ Analyzing the performance of different financial products. <br>
 
 ## Project Objective
 In today's highly competitive financial services sector, data-driven decision-making is crucial for maintaining a competitive edge and ensuring customer satisfaction. This project aims to provide a comprehensive data analysis and insights into various aspects of a financial services organization. By leveraging SQL, we will delve into the intricacies of customer behavior, risk assessment, and strategic planning. SQL will be our primary tool for extracting, transforming, and analyzing the data from the 'LoanInfo' database, enabling us to make informed decisions and optimize our operations in this dynamic industry. <br>
-Additionally, Power BI will play a pivotal role in this project, as we will use it to create interactive, communicative, and excellent dashboards. These dashboards will visually represent our findings, making it easier to communicate insights and trends to stakeholders. By combining SQL's data processing capabilities with Power BI's visualization prowess, we aim to provide a holistic and powerful solution for enhancing our organization's data-driven decision-making process. 
+Additionally, Power BI will play a pivotal role in this project, as we will use it to create interactive, communicative, and excellent dashboards. These dashboards will visually represent our findings, making it easier to communicate insights and trends to stakeholders. By combining SQL's data processing capabilities with Power BI's visualization prowess, we aim to provide a holistic and powerful solution for enhancing our organization's data-driven decision-making process. <br>
 **Dataset:** I was provided with the credit dataset containing the following columns <br>
-•	Age 
-•	Gender
-•	Income 
-•	Credit score 
-•	Credit history length
-•	Number of existing loans
-•	Loan amount
-•	Loan tenure
-•	Existing customer
-•	State
-•	City
-•	LTV ratio
-•	Employment profile
-•	Profile score
-•	Occupation
+•	Age <br>
+•	Gender <br>
+•	Income <br>
+•	Credit score <br> 
+•	Credit history length <br>
+•	Number of existing loans <br>
+•	Loan amount  <br>
+•	Loan tenure <br>
+•	Existing customer <br>
+•	State <br>
+•	City <br>
+•	LTV ratio <br>
+•	Employment profile <br>
+•	Profile score <br>
+•	Occupation <br>
 
 ## Data Analysis
 I conducted an in-depth analysis of the provided customer loan dataset, which included information on Customer Demographics, Credit Risk Assessment, Loan Default Analysis, Customer Segmentation, Financial Product Performance and more. The analysis covered a wide range of key questions like distribution of loan tenure among applicants with a credit score above 750, total loan amount requested by applicants in each state, number of Male and Female Applicants, average credit score for applicants in the age group of 50 to 60 years.
