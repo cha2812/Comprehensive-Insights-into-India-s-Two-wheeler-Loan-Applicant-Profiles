@@ -60,7 +60,7 @@ The table has been created in the SQL database
 This query allows us to see the average loan amount requested by applicants from different occupation types. It helps identify borrowing patterns and preferences based on the 
 occupation.
 
-![](pic3.png)
+![](pic3b.png)
 
 ![](pic3a.png)
 
