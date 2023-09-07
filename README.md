@@ -50,7 +50,7 @@ Additionally, Power BI will play a pivotal role in this project, as we will use 
 I conducted an in-depth analysis of the provided customer loan dataset, which included information on Customer Demographics, Credit Risk Assessment, Loan Default Analysis, Customer Segmentation, Financial Product Performance and more. The analysis covered a wide range of key questions like distribution of loan tenure among applicants with a credit score above 750, total loan amount requested by applicants in each state, number of Male and Female Applicants, average credit score for applicants in the age group of 50 to 60 years.
 The first thing I had to do was to replicate the table into my SQL database.
 
-![](pic1.png)
+![](pic1a.png)
 
 The table has been created in the SQL database 
 
