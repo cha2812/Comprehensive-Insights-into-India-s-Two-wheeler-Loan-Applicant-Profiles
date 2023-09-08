@@ -153,6 +153,11 @@ Here are some KPIs that could help us understand and solve some business problem
 6. Average Income: This KPI calculates the average income of loan applicants. It provides insights into the financial stability of the applicants and their ability to repay loans.
 7. Average Loan Tenure: Calculate the average loan tenure (in months) for approved loans. It provides insights into the typical duration for which customers are seeking loans.
 
+## Visualization
+Here is a visual to better explain some findings and can help the company make informed decisions. Microsoft Power Bi was used to create the visuals.
+
+![](vis1.png)
+
 ## Recommendation
 **Loan Criteria and Approval Process:** Utilize the average income of loan applicants as a reference for setting minimum income criteria for loan approvals. Consider the highest loan amount requested when establishing upper limits for loan approvals. <br>
 **Risk Management:** Monitor the creditworthiness of self-employed applicants and develop specific loan products or terms to address their unique needs and risk profiles. Assess the risk associated with the average loan-to-value (LTV) ratio for applicants from different regions, adjusting lending policies or rates as needed to manage risk effectively. Keep a close eye on applicants with the highest LTV ratios, especially among self-employed females. High LTV ratios indicate potential risk, and the organization should closely assess and manage loans to these applicants to reduce default risk. <br>
